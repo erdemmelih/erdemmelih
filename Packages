@@ -2,7 +2,7 @@ Package: applebetas.ios.theme.lockglyphx.oldsound
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.theme.lockglyphx.oldsound/
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: AppleBetas
+Maintainer: MelihErdem
 Depends: mobilesubstrate, firmware (>= 10.0), xyz.evilgoldfish.lockglyphx
 Filename: deb/applebetas.ios.theme.lockglyphx.oldsound_1.0.1.deb
 Size: 88126
@@ -11,14 +11,14 @@ SHA1: 53c2f7e5917262a21d3111490c8abd590d721a45
 SHA256: 7d53385e72a53a965f5206118862ff9f1e75fc529e3b6c91b9365638476103cd
 Section: Themes (LockGlyphX)
 Description: LockGlyphX now uses the new Apple Pay sound (introduced in iOS 8.3). This package adds the old sound as a theme option.
-Author: AppleBetas
+Author: MelihErdem
 Name: Old Apple Pay Sound (for LockGlyphX)
 
 Package: applebetas.ios.tweak.blurrycc10
 Depiction: https://repo.applebetas.co/depiction/applebetas.ios.tweak.blurrycc10/
 Version: 1.0.1-1
 Architecture: iphoneos-arm
-Maintainer: AppleBetas
+Maintainer: MelihErdem
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 10.0)
 Filename: deb/applebetas.ios.tweak.blurrycc10_1.0.1-1_iphoneos-arm.deb
@@ -28,7 +28,7 @@ SHA1: af426cda2a70f7c9568acb9b127398038443bbac
 SHA256: 7801e49321d67770e088e95959563270160f4b4f5d3ceed8fe396665131fc6ea
 Section: Tweaks
 Description: Give the iOS 10 Control Center a much more blurry and translucent look, similar to that of iOS 7's.
-Author: AppleBetas
+Author: MelihErdem
 Name: BlurryCC10
 
 Package: applebetas.ios.tweak.classicbanners
