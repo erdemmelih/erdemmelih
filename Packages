@@ -144,7 +144,7 @@ MD5sum: cbdd081fbc29342c000196dcd36234af
 SHA1: c4999b76501c087b10da1174d9a5ff9914c8e150
 SHA256: 781feec94e27086f07ecc094129e1df35eae9d787f593106c21ca4f17ea6f2a9
 Section: Development
-Description: An in-app debugging and exploration tool for iOS. Use at your own risk: this will inject the tool into every app, including SpringBoard, even if you haven't activated it yet.
+Description: Uygulamalar içinde değişiklik oynama yapabilen tweak dene ve gör .
 Author: Flipboard
 Name: FLEX
 
